@@ -19,8 +19,7 @@ This project was created to get hands-on with JavaScript DOM manipulation and lo
 
 ## 📸 Screenshot
 
-![screenshot](./screenshot.pngD:\Chirag\Program\web_dev\todo-app-v1\Screenshot 2025-07-01 010910.png)  
-_(Add this later after taking a screenshot and saving it as `screenshot.png` in your folder)_
+![screenshot](screenshot.png)
 
 ---
 
